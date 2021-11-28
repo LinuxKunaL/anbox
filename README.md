@@ -7,6 +7,9 @@
 ```bash
 git clone https://github.com/LinuxKunaL/anbox
 ```
+### Tested
+kali linux
+
 ### info 
 Anbox is an Android emulator that is available for any GNU/Linux operating system. An android emulator offers the environment necessary for installing and running Android apps.
 
