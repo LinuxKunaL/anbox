@@ -20,11 +20,8 @@ Anbox is a free and open-source compatibility layer that aims to allow mobile ap
 ## sreenshots
 
 ![App Screenshot](https://github.com/LinuxKunaL/anbox/blob/main/git/20211128_105356.png)
-
 ![App Screenshot](https://github.com/LinuxKunaL/anbox/blob/main/git/20211128_105438.png)
-
 ![App Screenshot](https://github.com/LinuxKunaL/anbox/blob/main/git/20211128_105645.png)
-
 ![App Screenshot](https://github.com/LinuxKunaL/anbox/blob/main/git/20211128_105730.png)
 ## 🔗 Links
 [![instgram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linux_hitman/)
