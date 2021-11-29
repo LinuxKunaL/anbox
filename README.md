@@ -7,6 +7,13 @@
 ```bash
 git clone https://github.com/LinuxKunaL/anbox
 ```
+
+## For run 
+
+```bash
+systemctl start anbox-container-manager.service 
+sudo anbox launch --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity
+```
 ### Tested
 kali linux
 
